@@ -14,10 +14,10 @@ I learn by shipping — every project below is built, deployed, and used by real
 - Guarantee Tracker: users get their exam fee back if they hit all learning targets  
 - 800+ pre-registered users before launch  
 
-**[Bewerbungs-Automatisierung](https://github.com/abderrahmanedioubi/bewerbungs-automatisierung)** — AI-powered job application pipeline  
+**[Bewerber-Assistent](https://github.com/abderrahmanedioubi/bewerber-assistent)** — AI-powered applicant workflow assistant  
 `Python` `FastAPI` `Gemini API` `Google APIs` `BeautifulSoup`  
-- Scrapes job listings → AI classifies & generates cover letters → sends via Gmail  
-- End-to-end: from raw HTML to PDF application in your inbox  
+- Orchestrates the application lifecycle: scraping → AI classification → PDF generation  
+- Designed to eliminate repetitive data entry while keeping the user in full control  
 
 ---
 
